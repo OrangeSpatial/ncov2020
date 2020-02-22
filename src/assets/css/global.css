@@ -1,0 +1,24 @@
+/* 全局样式表 */
+
+html,body,#app{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body{
+    /* background-color: #0cbfd6; */
+}
+
+.el-breadcrumb{
+    margin-bottom: 15px;
+}
+
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1)!important;
+}
+
+.iconfont {
+    padding-right: 8px;
+    color: #00d8a0;
+  }
